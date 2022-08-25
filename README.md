@@ -1,30 +1,4 @@
-# FPerson
-
-This application was written to help user mark the text for further using in NLP.
-
-The application obtaines the next keys:
-- "-s \<filename>" Source file (raw text)
-- "-d \<filename>" File containes parameter (must containe json object). Default value : "import_word.json"
-- "-a" If this key passes to the applications app will create a new json files with parameters
-
-If no key passes with key "-s", applications obtaines text via command line.
-To stop passing data and start marking data use "CTRL + d".
-
-
-# Ferson
-
-This application was written to help user mark the text for further using in NLP.
-
-The application obtaines the next keys:
-- "-s \<filename>" Source file (raw text)
-- "-d \<filename>" File containes parameter (must containe json object). Default value : "import_word.json"
-- "-a" If this key passes to the applications app will create a new json files with parameters
-
-If no key passes with key "-s", applications obtaines text via command line.
-To stop passing data and start marking data use "CTRL + d".
-
-
-# Ferson
+# Fperson
 
 This project was written for educational purposes.
 If any user know how to improve the code or found any bug please inform me.

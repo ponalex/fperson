@@ -1,0 +1,16 @@
+{
+	"structure": {
+	"pointer": 0,
+	"sentence": 0,
+	"data_list":  "test.json",
+	"marking": {
+		"1": "other",
+		"0": "trash",
+		"2": "name",
+		"3": "pronoun",
+		"4": "preposition",
+		"5": "place"
+		}
+	}
+
+}

@@ -1,0 +1,13 @@
+/.ipynb_checkpoints
+*/__pycache__
+
+
+*.pyc
+
+*.log
+*.txt
+*.py.swm
+*.py.swn
+*.py.swo
+*.swp
+
